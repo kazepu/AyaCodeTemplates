@@ -1,0 +1,15 @@
+// 此代码由模板自动生成
+// This code is auto-generated from a template
+
+using System;
+
+namespace Demo
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello, World!");
+        }
+    }
+}
