@@ -1,0 +1,22 @@
+name_cn:"中文模板名称"
+name_en:"Template name in English"
+
+content:"
+// 此代码由模板自动生成
+// This code is auto-generated from a template
+
+using System;
+
+namespace Demo
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello, World!");
+        }
+    }
+}
+
+*C# syntax above*
+"
