@@ -1,0 +1,12 @@
+# 此代码由模板自动生成
+# This code is auto-generated from a template
+
+def greet(name):
+    return f"Hello, {name}"
+
+def main():
+    msg = greet("World")
+    print(msg)
+
+if __name__ == "__main__":
+    main()
