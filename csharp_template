@@ -1,6 +1,6 @@
 name_cn:"C# 模板"
 name_en:"C# Template"
-ext:"cc"
+ext:"cs"
 
 content:"
 // 此代码由模板自动生成
