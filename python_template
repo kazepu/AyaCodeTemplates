@@ -1,3 +1,7 @@
+name_cn:"Python 模板"
+name_en:"Python Template"
+
+content:"
 # 此代码由模板自动生成
 # This code is auto-generated from a template
 
@@ -10,3 +14,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+"
